@@ -49,6 +49,9 @@ char pul = 'A';
 
 main(){
     printf("Escribe un mensaje");
+    a = b+c;
+    a=b+c;
+    d = a-b;
     scanf("%s",pal);
     for(int = i; i<5;i++){
         if(i<3){

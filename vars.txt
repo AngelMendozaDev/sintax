@@ -1,0 +1,6 @@
+a,4,int,1,0004
+b,4,int,2,0008
+c,4,int,0,0012
+importe,4,float,0.0,0016
+total,4,float,7.5,0020
+pul,1,char,'A',0021
